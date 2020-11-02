@@ -9,8 +9,11 @@ Ejemplo de TDA
 ![Captura de pantalla (414) png](https://user-images.githubusercontent.com/71051834/97927531-c5d78580-1d2a-11eb-9bcb-ba34c6718778.jpg)
 
 para finalizar se muestran algunas capturad de panatalla del programa en ejecucion.
-para empezar el progama nos pide cuanto estudiantes o alumnos queremos agregar, deespues pedira los datos del los estudiantes
-
+para empezar el progama nos pide cuanto estudiantes o alumnos queremos agregar, deespues pedira los datos del los estudiantes o estudiante que se quieran agregar.
+nosotros empezamos agregando dos estuadiantes y aqui estan las capturas
 ![Captura de pantalla (415) png](https://user-images.githubusercontent.com/71051834/97927590-e4d61780-1d2a-11eb-90d2-5e95f1d45a85.jpg)
 ![Captura de pantalla (416) png](https://user-images.githubusercontent.com/71051834/97927639-fb7c6e80-1d2a-11eb-816b-ba8f0896191b.jpg)
+
+despues de ingresar los datos del estudiante nos apareceran en forma de lista los estudiantes, con todos sus datos.
+si se preguntan como hicimos para mostrar las caritas usamos el código ASCII ahi pueden consultar 
 ![Captura de pantalla (417) png](https://user-images.githubusercontent.com/71051834/97927710-2070e180-1d2b-11eb-9423-4f35f91965f3.jpg)
